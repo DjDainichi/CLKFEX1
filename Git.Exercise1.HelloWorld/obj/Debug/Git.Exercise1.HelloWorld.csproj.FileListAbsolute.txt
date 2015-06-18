@@ -1,0 +1,1 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\Git.Exercise1.HelloWorld\Git.Exercise1.HelloWorld\Git.Exercise1.HelloWorld\bin\Debug\Git.Exercise1.HelloWorld.exe.config
